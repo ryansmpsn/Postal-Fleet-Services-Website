@@ -2400,7 +2400,16 @@ span.email-notes {
   color: #fff;
   background: rgb(4, 0, 255);
 }
-
+.counter {
+  display: table-cell;
+  margin: 1.5%;
+  font-size: 50px;
+  background-color: #ff6f6f;
+  width: 200px;
+  border-radius: 50%;
+  height: 200px;
+  vertical-align: middle;
+}
 .single-blog .blog-pagination {
   border-top: 1px solid #e5e5e5;
   margin: 0;
