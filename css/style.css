@@ -573,7 +573,7 @@ div#preloader {
 }
 
 .our-skill-area {
-  background: rgba(248, 248, 248, 0.8) url("../img/background/bg1.jpg")
+  background: rgba(248, 248, 248, 0.8) url("../img/postalfleet/truck-15.jpg")
     no-repeat fixed center top / cover;
 }
 
@@ -751,7 +751,7 @@ div#preloader {
 ----------------------------------------*/
 
 .welcome-area {
-  background: rgba(248, 248, 248, 0.8) url("../img/background/bg1.jpg");
+  background: rgba(248, 248, 248, 0.8) url("../img/postalfleet/truck-3.jpg");
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
@@ -1028,7 +1028,7 @@ div#preloader {
 /*--------------------------------*/
 
 .reviews-area {
-  background: url(../img/background/bg1.jpg);
+  background: url(../img/postalfleet/truck-1.jpg);
   overflow: hidden;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1919,14 +1919,14 @@ div#preloader {
 /*----------------------------------------*/
 
 .header-bg {
-  background: url(../img/slider/slider1.jpg);
+  background: url(../img/postalfleet/truck-5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
   background-attachment: fixed;
 }
 .driver-bg {
-  background: url(../img/slider/slider3.jpg);
+  background: url(../img/postalfleet/truck-5.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -2039,9 +2039,6 @@ div#preloader {
 .left-blog li {
   border-bottom: 1px solid #ddd;
   display: block;
-}
-
-.left-blog ul li a:hover {
 }
 
 .left-blog ul li a {
@@ -2321,9 +2318,6 @@ h3.comment-reply-title {
   margin-right: 5px;
 }
 
-.comments-content-wrap span a:hover {
-}
-
 span.post-time {
   margin-right: 5px;
 }
@@ -2341,9 +2335,6 @@ li.threaded-comments {
 
 .comment-respond {
   margin-top: 60px;
-}
-
-h3.comment-reply-title {
 }
 
 span.email-notes {
