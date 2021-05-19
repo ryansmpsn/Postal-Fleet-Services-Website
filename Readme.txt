@@ -1,2 +1,2 @@
 Author: Ryan Simpson
-Author URL: https://ryansmpsn.github.io/
+Author URL: https://www.ryansimpson.dev/
